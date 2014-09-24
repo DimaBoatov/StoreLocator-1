@@ -1,0 +1,4 @@
+storelocator
+============
+
+Magento Store Locator
